@@ -1,7 +1,7 @@
 export default function Checkout() {
   return (
     <div className='checkout'>
-      <h1>Checkout</h1>
+      <h1>Checkout Mofo</h1>
     </div>
   )
 }
